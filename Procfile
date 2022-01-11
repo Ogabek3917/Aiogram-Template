@@ -1,1 +1,1 @@
-worker: python newspost.py
+worker: python app.py
